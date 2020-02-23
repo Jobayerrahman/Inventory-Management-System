@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\bin\Debug\Inventory_Management_System.Framework.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\bin\Debug\Inventory_Management_System.Framework.pdb
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\obj\Debug\Inventory_Management_System.Framework.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\obj\Debug\Inventory_Management_System.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\obj\Debug\Inventory_Management_System.Framework.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Framework\obj\Debug\Inventory_Management_System.Framework.pdb

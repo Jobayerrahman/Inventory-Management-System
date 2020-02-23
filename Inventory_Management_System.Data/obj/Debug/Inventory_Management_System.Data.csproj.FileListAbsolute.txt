@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\obj\Debug\Inventory_Management_System.Data.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\obj\Debug\Inventory_Management_System.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\Inventory_Management_System.Data.dll.config
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\Inventory_Management_System.Data.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\Inventory_Management_System.Data.pdb
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\obj\Debug\Inventory_Management_System.Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\obj\Debug\Inventory_Management_System.Data.dll
+C:\Users\ASUS\source\repos\Management_System\Inventory_Management_System.Data\obj\Debug\Inventory_Management_System.Data.pdb
